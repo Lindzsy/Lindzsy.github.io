@@ -1,5 +1,5 @@
 {
-  "name": "front-end-curriculum",
+  "name": "ada developers adcademy curriculum",
   "version": "1.0.0",
   "description": "Open source curriculum for Ada Developers Academy",
   "main": "index.html",
@@ -15,14 +15,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/turingschool/front-end-curriculum.git"
-  },
   "author": "",
   "license": "CC-BY-NC-SA-4.0",
-  "bugs": {
-    "url": "https://github.com/turingschool/front-end-curriculum/issues"
   },
   "homepage": "https://github.com/turingschool/front-end-curriculum#readme"
 }
